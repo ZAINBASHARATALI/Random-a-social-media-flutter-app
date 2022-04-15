@@ -7,12 +7,25 @@ A new Flutter application which represents the implementation of completely new 
 
 Following are the screens Random app contains which I redesigned as social media app screens:
 
-- ![Login Screen](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)
-
-Solarized dark             |  Solarized Ocean
+Log In Screen             |   Sign Up Screen
 :-------------------------:|:-------------------------:
 ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.42%20PM.png?raw=true)
 
+Post Screen             |  Side Drawer
+:-------------------------:|:-------------------------:
+![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.43.49%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.45.24%20PM.png?raw=true)
+
+User Profile Screen             |  Home Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.45.43%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.46.51%20PM.png?raw=true)
+
+Search Screen             |  Inbox Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.47.05%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.47.18%20PM.png?raw=true)
+
+Comment Screen            |  Chat Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.46.38%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.48.55%20PM.png?raw=true)
 
 
 ## Getting Started
