@@ -1,4 +1,4 @@
-### Random, a social media app
+## Random, a social media app
 
 A new Flutter application which represents the implementation of completely new design of Social media app.
 
