@@ -1,5 +1,5 @@
 
-# # Random, A Social Media App
+# Random, A Social Media App
 
 A new Flutter application which represents the implementation of completely new design of Social media app for both Android and iOS device. It was basically a flutter project I developed during my internship at [Augersoft](https://www.augersoft.com/) as Flutter Developer Intern. One best thing in it which I love the most was to implement the functionality of picking images from Gallery using [Image Picker](https://pub.dev/packages/image_picker) package.
 
