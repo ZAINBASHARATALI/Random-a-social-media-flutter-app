@@ -9,6 +9,9 @@ Following are the screens Random app contains which I redesigned as social media
 
 - ![Login Screen](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.42%20PM.png?raw=true)
 
 
 
