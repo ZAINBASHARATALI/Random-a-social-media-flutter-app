@@ -7,12 +7,7 @@ A new Flutter application which represents the implementation of completely new 
 
 Following are the screens Random app contains which I redesigned as social media app screens:
 
-- ![Login Screen](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)
+![Login Screen](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.42.23%20PM.png?raw=true)
 
 
 
