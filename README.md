@@ -1,6 +1,11 @@
-## Random, a social media app
+## Random, A Social Media App
 
 A new Flutter application which represents the implementation of completely new design of Social media app.
+
+#Screens Developed
+
+Random explains implementation of multiple screens which are shown below:
+
 
 
 ## Getting Started
