@@ -1,7 +1,18 @@
 
-# Random, A Social Media App
+# # Random, A Social Media App
 
-A new Flutter application which represents the implementation of completely new design of Social media app. It was basically a flutter project I developed during my internship at [Augersoft](https://www.augersoft.com/) as Flutter Developer Intern.
+A new Flutter application which represents the implementation of completely new design of Social media app for both Android and iOS device. It was basically a flutter project I developed during my internship at [Augersoft](https://www.augersoft.com/) as Flutter Developer Intern. One best thing in it which I love the most was to implement the functionality of picking images from Gallery using [Image Picker](https://pub.dev/packages/image_picker) package.
+
+## Packages Used
+
+- [animate_do](https://pub.dev/packages/animate_do)
+- [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) 
+- [easy_splash_screen](https://pub.dev/packages/easy_splash_screen) 
+- [get](https://pub.dev/packages/get) 
+- [get_storage](https://pub.dev/packages/get_storage) 
+- [image_picker](https://pub.dev/packages/image_picker) 
+- [provider](https://pub.dev/packages/provider)
+- [velocity_x](https://pub.dev/packages/velocity_x)
 
 ## Screens Developed
 
@@ -28,7 +39,7 @@ Comment Screen            |  Chat Screen
 ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.46.38%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.48.55%20PM.png?raw=true)
 
 
-## Getting Started
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
