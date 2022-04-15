@@ -38,6 +38,8 @@ Comment Screen            |  Chat Screen
 :-------------------------:|:-------------------------:
 ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.46.38%20PM.png?raw=true)  |  ![](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/Screenshot%202022-04-15%20at%2010.48.55%20PM.png?raw=true)
 
+## Project Gif
+![Working Project](https://github.com/ZAINBASHARATALI/Random-a-social-media-flutter-app-/blob/master/video&images/My%20Video.gif?raw=true)
 
 ## Getting Started with Flutter
 
